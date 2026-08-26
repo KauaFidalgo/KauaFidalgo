@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ No meu tempo livre custumo sair com pessoas que eu gosto e jogar bastante de vez em quanto.<br>📚 Aprendendo ingles avançado e Linguagens de Programação.<br>🥊Gosto de atividades físicas, atualmente treino MuayThai para lutar profissionalmente.<br>🎲 Gosto muito de saber sobre estilo, roupas e etc.</p>
+<p align="left">✨ No meu tempo livre custumo sair com pessoas que eu gosto e jogar bastante de vez em quanto.<br>📚 Aprendendo ingles avançado e Linguagens de Programação.<br>🥊Gosto de atividades físicas, atualmente faço academia.<br>🎲 Gosto muito de saber sobre estilo, roupas e etc.</p>
 
 ###
 
