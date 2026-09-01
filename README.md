@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, estou no 2 semestre. Faço curso de ingles avançado no Idalina.</p>
+<p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, estou no 4 semestre. Ex-Estudante Inglês Intermediário.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ No meu tempo livre custumo sair com pessoas que eu gosto e jogar bastante de vez em quanto.<br>📚 Aprendendo ingles avançado e Linguagens de Programação.<br>🥊Gosto de atividades físicas, atualmente faço academia.<br>🎲 Gosto muito de saber sobre estilo, roupas e etc.</p>
+<p align="left">✨ No meu tempo livre custumo sair com pessoas que eu gosto e jogar bastante de vez em quanto.<br>📚 Aprendendo ingles e Linguagens de Programação.<br>🥊Gosto de atividades físicas, atualmente faço academia.<br>🎲 Gosto muito de saber sobre estilo, roupas e etc.</p>
 
 ###
 
