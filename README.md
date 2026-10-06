@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, estou no 4 semestre. Ex-Estudante Inglês Intermediário.</p>
+<p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, estou no Último Semestre do 3 Ano. Inglês Intermediário.</p>
 
 ###
 
